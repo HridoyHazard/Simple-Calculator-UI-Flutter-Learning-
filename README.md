@@ -1,4 +1,4 @@
-# clicker
+# Calculator UI
 
 A new Flutter project.
 
